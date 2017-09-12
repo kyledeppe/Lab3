@@ -1,10 +1,9 @@
 /*
  ============================================================================
- Name        : Lab1.c
+ Name        : Lab3.c
  Author      : Kyle Deppe
  Course		 : ECE 3220
- Copyright   : Your copyright notice
- Description : Calculates the area of a circle, the profit after a cost, and then a 4-button calculator.
+ Description : Calculates the area of a circle, the profit after a cost, and then executes a 4-button calculator.
  ============================================================================
  */
 
