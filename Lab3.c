@@ -6,8 +6,6 @@
  Description : Calculates the area of a circle, the profit after a cost, and then executes a 4-button calculator.
  ============================================================================
  */
-
- // This is a test comment
  
 #include <stdio.h>
 #include <stdlib.h>
